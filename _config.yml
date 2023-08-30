@@ -15,12 +15,14 @@ title: Spokane Symphony Musicians
 # Your name to show in the footer
 author: Spokane Symphony Musicians
 
+remove-ads: true
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "about-sso-musicians"
+  About Us: "about-sso-musicians"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
