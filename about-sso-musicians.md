@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About the Spokane Symphony Musicians
-subtitle: TODO
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Welcome to the home page of the Spokane Symphony Musicians. This site offers you a behind the scenes look at what we're all about. If you'd like to know more about who we are, what exactly it is we do, or how and why we do it, you 've come to the right place. This orchestra is an unusually diverse group.  While many of us have longstanding family connections to the area, an increasing number of musicians have relocated to Spokane from all around the nation, expressly to be part of this terrific ensemble. As a whole, we comprise your symphony orchestra, and we serve our region in a variety of ways. You can find us performing together, on the stage of the Fox and in other venues around town, as well as individually, producing our own occasional recitals or faculty concerts. We also bring our skills and passion to bear by providing music instruction in numerous capacities throughout the area. Above all, we endeavor to inspire and enrich our community, delivering the powerful beauty of great music to the inland northwest.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
