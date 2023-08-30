@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
+title: Spokane Symphony Musicians sample blog post
+subtitle: This post demonstrates what you can do with markdown
+gh-repo: ssomusicians/ssomusicians.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true

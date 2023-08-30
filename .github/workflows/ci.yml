@@ -1,8 +1,8 @@
-name: Beautiful Jekyll CI
+name: Spokane Symphony Musicians CI
 on: [push, pull_request]
 jobs:
   build:
-    name: Build Jekyll
+    name: Build with Jekyll
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
