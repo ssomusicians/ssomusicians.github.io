@@ -19,4 +19,4 @@ instruction in numerous capacities throughout the area. Above all, we endeavor
 to inspire and enrich our community, delivering the powerful beauty of great
 music to the Inland Northwest.
 
-<img src='assets/img/ssomusicianmap.png'>
+<img src="/assets/img/ssomusicianmap.png">
