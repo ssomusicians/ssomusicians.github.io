@@ -3,10 +3,10 @@
 ############################
 
 # Name of website
-title: Spokane Symphony Musicians
+title: Musicians of the Spokane Symphony
 
 # Your name to show in the footer
-author: Spokane Symphony Musicians
+author: Musicians of the Spokane Symphony
 
 remove-ads: true
 
@@ -15,7 +15,7 @@ remove-ads: true
 ###############################################
 
 navbar-links:
-  About Us: "about-sso-musicians"
+  About Us: "about-us"
   Newsletter Signup: "https://eepurl.us7.list-manage.com/track/click?u=91f61ecba613b6bb7517ff24e&id=1823ed3b2d&e=28b08a3c59"
   Newsletter Archive: "https://us7.campaign-archive.com/home/?u=91f61ecba613b6bb7517ff24e&id=d5cb574f71"
   Spokane Symphony: "https://spokanesymphony.org"
@@ -50,7 +50,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Spokane Symphony Musicians
+rss-description: Musicians of the Spokane Symphony
 
 ###########################
 # --- General options --- #

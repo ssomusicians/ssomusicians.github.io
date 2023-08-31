@@ -1,1 +1,1 @@
-# Spokane Symphony Musicians
+# Musicians of the Spokane Symphony

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spokane Symphony Musicians sample blog post
+title: Musicians of the Spokane Symphony sample blog post
 subtitle: This post demonstrates what you can do with markdown
 gh-repo: ssomusicians/ssomusicians.github.io
 gh-badge: [star, fork, follow]
