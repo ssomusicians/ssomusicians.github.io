@@ -4,8 +4,11 @@ layout: page
 
 {{ content }}
 
+{% assign posts = paginator.posts | default: site.posts %}
+
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in pinnedposts %}
+  {% for post in posts %}
+  {% if post.layout == "pinnedpost" %}
   <li class="post-preview">
     <article>
 
@@ -86,14 +89,14 @@ layout: page
 
     </article>
   </li>
+  {% endif %}
   {% endfor %}
 </ul>
-
-{% assign posts = paginator.posts | default: site.posts %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
+  {% if post.layout == "post" %}
   <li class="post-preview">
     <article>
 
@@ -179,6 +182,7 @@ layout: page
 
     </article>
   </li>
+  {% end if %}
   {% endfor %}
 </ul>
 
