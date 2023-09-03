@@ -14,6 +14,8 @@ remove-ads: true
 # --- List of links in the navigation bar --- #
 ###############################################
 
+navbar-title: Musicians of the SSO
+
 navbar-links:
   About Us: "about-us"
   Newsletter Signup: "https://eepurl.us7.list-manage.com/track/click?u=91f61ecba613b6bb7517ff24e&id=1823ed3b2d&e=28b08a3c59"
@@ -33,7 +35,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/clefs.png"
+# title-img: "/assets/img/clefs.png"
 
 #####################################
 # --- Footer social media links --- #
@@ -96,15 +98,15 @@ keywords: "spokane,symphony,orchestra,musicians,classical,union"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#C78384"
+navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#E2C4C2"
+page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#C78384"
-footer-text-col: "#404040"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
