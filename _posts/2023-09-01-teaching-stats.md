@@ -6,4 +6,4 @@ tags: [teaching]
 comments: false
 ---
 
-![Teaching Stats]({{ '/assets/img/teaching-stats.png' | relative_url }})
+![Teaching Stats](/assets/img/2023-09-01-teaching-stats/teaching-stats.png)

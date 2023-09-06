@@ -5,8 +5,7 @@ title: About the Musicians of the Spokane Symphony
 
 Welcome to the home page of the Musicians of the Spokane Symphony!
 
-<img src="/assets/img/basssection.png">
-
+![SSO Bass Section](/assets/img/about-us/basssection.png)
 
 This site offers you a behind the scenes look at what we're all about. If you'd
 like to know more about who we are, what exactly it is we do, or how and why we
@@ -22,4 +21,4 @@ instruction in numerous capacities throughout the area. Above all, we endeavor
 to inspire and enrich our community, delivering the powerful beauty of great
 music to the Inland Northwest.
 
-<img src="/assets/img/ssomusicianmap.png">
+![SSO Musician Map](/assets/img/about-us/ssomusicianmap.png)
