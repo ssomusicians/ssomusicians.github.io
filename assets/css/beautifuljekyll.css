@@ -1001,7 +1001,7 @@ pre {
 
 .blog-post blockquote {
   padding: 0.625rem 1.25rem;
-  margin: 0 0 1.25rem;
+  margin: 0 0 0 0;
   font-size: 1.1rem;
   border-left: 0.3125rem solid #eee;
 }
