@@ -727,7 +727,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3.125rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
@@ -1001,7 +1001,7 @@ pre {
 
 .blog-post blockquote {
   padding: 0.625rem 1.25rem;
-  margin: 0 0 1.25rem;
+  margin: 0 0 0 0;
   font-size: 1.1rem;
   border-left: 0.3125rem solid #eee;
 }
