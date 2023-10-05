@@ -5,14 +5,14 @@ tags: [dress,working-conditions]
 comments: false
 ---
 
-A quick update: We’ve come to an agreement on our contract for this season,
+_A quick update: We’ve come to an agreement on our contract for this season,
 2023-24. While we continue to be frustrated with recurring one-year agreements,
 lost wages to inflation and covid, and a lack of commitment to our future in
 this organization, we are pleased to agree on changes to our dress (read on
 below!). We will be back at the bargaining table in less than a year and our
 quest for better wages and working conditions continues. We’ll go into more
 detail about this in future posts. Please stay in touch to hear more from us
-throughout the year. Sign up for our newsletter so you don’t miss a post.
+throughout the year. Sign up for our newsletter so you don’t miss a post._
 
 --------
  
@@ -39,6 +39,7 @@ It is difficult for bassists and cellists to move their arms freely to play.
 All black for everyone equalizes our ensemble by having the same dress standard for all.
 
 ![Comfortable clothing for everyone!](/assets/img/2023-10-07-losing-our-tails/orchestra-all-black.jpg)
+<img-caption style="display: block; font-size: 0.9rem;">Comfortable clothing for everyone</img-caption>
 
 If you’d like to learn more about the history of tails on stage and how this is
 changing, here are some articles that go into more detail:
