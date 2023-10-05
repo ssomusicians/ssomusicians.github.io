@@ -14,8 +14,8 @@ quest for better wages and working conditions continues. We’ll go into more
 detail about this in future posts. Please stay in touch to hear more from us
 throughout the year. Sign up for our newsletter so you don’t miss a post.
 
-# Losing Our Tails
-
+--------
+ 
 If you come to our Masterworks 2 concerts this weekend, you might notice there
 are no tails! In this new contract, we and our management have agreed to update
 our dress to be more modern. 
@@ -40,6 +40,7 @@ All black for everyone equalizes our ensemble by having the same dress standard 
 
 ![Comfortable clothing for everyone!](/assets/img/2023-10-07-losing-our-tails/orchestra-all-black.jpg)
 
-If you’d like to learn more about the history of tails on stage and how this is changing, here are some articles that go into more detail:
-* https://www.classicfm.com/music-news/orchestras-worn-white-tails-centuries-times-are-changing/
-* https://www.wqxr.org/story/explainer-why-do-orchestras-wear-all-black/
+If you’d like to learn more about the history of tails on stage and how this is
+changing, here are some articles that go into more detail:
+* [Orchestras have worn white tails for centuries. Now, the times – and the tails – are changing.](https://www.classicfm.com/music-news/orchestras-worn-white-tails-centuries-times-are-changing)
+* [Why Do Orchestras Wear All Black?](https://www.wqxr.org/story/explainer-why-do-orchestras-wear-all-black)
