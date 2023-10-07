@@ -12,7 +12,8 @@ this organization, we are pleased to agree on changes to our dress (read on
 below!). We will be back at the bargaining table in less than a year and our
 quest for better wages and working conditions continues. We’ll go into more
 detail about this in future posts. Please stay in touch to hear more from us
-throughout the year. Sign up for our newsletter so you don’t miss a post._
+throughout the year. [Sign up for our newsletter](https://eepurl.us7.list-manage.com/track/click?u=91f61ecba613b6bb7517ff24e&id=1823ed3b2d&e=28b08a3c59)
+so you don’t miss a post._
 
 --------
  
