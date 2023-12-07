@@ -28,3 +28,5 @@ comments: false
 * We need a multi-year contract to do this.
 * We have a hopeful vision for our future where we are performing more concerts and reaching more students and community members outside of the concert hall.
 * We need better wages and stability for musicians so we can focus on doing what we do best: making music.
+
+Thank you again to everyone who donated to the Musicians’ Relief Fund during COVID. Your generosity kept us going during an extremely difficult time and will not be forgotten.
